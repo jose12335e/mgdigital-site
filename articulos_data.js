@@ -8,6 +8,11 @@ const articulos = [
     titulo: "CapCut para principiantes",
     descripcion: "Guía rápida para aprender a editar tus primeros videos desde el celular usando CapCut.",
     enlace: "capcut.html"
+  },
+  {
+    titulo: "CapCut para principiantes",
+    descripcion: "Guía rápida para aprender a editar tus primeros videos desde el celular usando CapCut.",
+    enlace: ""
   }
 ];
 

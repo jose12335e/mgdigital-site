@@ -8,6 +8,11 @@ const articulos = [
     titulo: "Apps para vender fotos desde tu móvil",
     descripcion: "Si te gusta la fotografía, puedes vender tus imágenes en plataformas como Foap o Shutterstock y ganar dinero extra.",
     enlace: "vender-fotos.html"
+  },
+  {
+    titulo: "Explora ideas para ganar dinero desde casa",
+    descripcion: "Descubre cómo puedes generar ingresos desde la comodidad de tu hogar. Te mostramos diversas opciones y consejos para empezar.",
+    enlace: "ganar-dinero-casa.html"
   }
 ];
 
